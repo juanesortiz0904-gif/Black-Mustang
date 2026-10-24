@@ -1,5 +1,7 @@
-# Black Mustang
+# Black Mustang (puente)
 
-Página web de Black Mustang: entretenimiento interactivo para ferias y eventos.
+Esta dirección es la que tienen los códigos QR impresos. Lleva automáticamente a la página oficial:
 
-Se publica con GitHub Pages desde la rama `main` (carpeta raíz).
+**https://blackmustangcasino.github.io/**
+
+No borres ni renombres este repositorio y no apagues su GitHub Pages: si lo haces, los QR impresos dejan de funcionar.
